@@ -4,6 +4,7 @@ YUHH is a Discord bot created by 2 very bored programmers who have nothing bette
 ## Current Features
 ### - Guess the drawing
 Invoke with: guess
+Uses Google QuickDraw to generate drawings drawn by other humans that Google's QuickDraw was able to guess.
 
 ### - Trivia
 Invoke with: trivia
