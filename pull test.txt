@@ -1,7 +1,1 @@
-Here is a file that I am going to pull, let's hope it works
-
-HERE IS A CHANGE I MADE LOCALLY IN GITITIGITITIIGTII
-This line is added locally
-SO HERE IS A CHANGE I MADE ON GITHUB LINE 3
-
-OK THEN
+Ok so it is deleted in github
